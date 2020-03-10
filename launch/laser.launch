@@ -1,0 +1,3 @@
+<launch>
+<node name="laser" pkg="laser" type="laser" args="" output="screen"/>
+</launch>
